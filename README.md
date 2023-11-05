@@ -1,4 +1,4 @@
-[![MasterHead](https://www.shutterstock.com/image-vector/programming-web-banner-best-languages-260nw-1676060566.jpg)
+[![MasterHead](https://media.publit.io/file/w_1170,h_508,c_fill,q_80/Blogweb/2s-blog-04-web-dev-maintain.jpg)
 
 <h1 align="center">Hi 👋, I'm Bhuban Chetry</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
